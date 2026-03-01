@@ -35,7 +35,7 @@ const Navbar = () => {
 
 
                         <span className="name">
-                            Ahaha
+                            Aha
                         </span>
                     </div>
                     <ul className="links"></ul>
