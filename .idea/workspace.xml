@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="432eebe1-8483-4083-a021-f7c5b2791fd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/routes/visualizer.$id.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Upload.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/constants.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="27" />
+    <option name="cachedIndexableFilesCount" value="29" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -71,10 +66,10 @@
 }]]></component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1774614748539" />
-    <option name="spentUsd" value="0.0529555" />
+    <option name="spentUsd" value="0.0688446" />
   </component>
   <component name="RecapUselessUpdatesCounter">
-    <option name="suspendCountdown" value="9" />
+    <option name="suspendCountdown" value="8" />
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -93,7 +88,7 @@
       <workItem from="1772179963595" duration="18101000" />
       <workItem from="1772231137296" duration="1625000" />
       <workItem from="1772236626282" duration="491000" />
-      <workItem from="1772380616004" duration="15224000" />
+      <workItem from="1772380616004" duration="16251000" />
     </task>
     <servers />
   </component>
