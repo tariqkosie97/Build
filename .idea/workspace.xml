@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="432eebe1-8483-4083-a021-f7c5b2791fd2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Upload.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Upload.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +66,10 @@
 }</component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1774614748539" />
-    <option name="spentUsd" value="0.077695206" />
+    <option name="spentUsd" value="0.08591095" />
   </component>
   <component name="RecapUselessUpdatesCounter">
-    <option name="suspendCountdown" value="4" />
+    <option name="suspendCountdown" value="3" />
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -91,7 +90,7 @@
       <workItem from="1772236626282" duration="491000" />
       <workItem from="1772380616004" duration="16251000" />
       <workItem from="1772449393744" duration="1351000" />
-      <workItem from="1772478309813" duration="2389000" />
+      <workItem from="1772478309813" duration="2867000" />
     </task>
     <servers />
   </component>
