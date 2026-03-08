@@ -31,8 +31,8 @@ export const createProject = async ({ item, visibility = "private" }: CreateProj
         await uploadImageToHosting({ hosting, url: item.renderedImage, projectId, label: 'rendered', }) : null;
 
     const resolvedSource = hostedSource?.url || (isHostedUrl(item.sourceImage)
-            ? item.sourceImage
-            : ''
+        ? item.sourceImage
+        : ''
     );
 
     if(!resolvedSource) {
@@ -60,8 +60,6 @@ export const createProject = async ({ item, visibility = "private" }: CreateProj
     }
 
     try {
-        //Call the Puter worker to store project in kv
-
         const response = await puter.workers.exec(`${PUTER_WORKER_URL}/api/projects/save`, {
             method: 'POST',
             body: JSON.stringify({
